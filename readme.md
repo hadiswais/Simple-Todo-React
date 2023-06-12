@@ -1,5 +1,10 @@
 # To-Do App in React for learning purpose
 
+### Clone and run:
+    - yarn install 
+    - yarn dev
+   
+
 ### Components:
 
     - New Todo Form
